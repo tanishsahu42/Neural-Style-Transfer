@@ -23,6 +23,7 @@ $ pip install --upgrade tensorflow-gpu \
 ```
 $ python3 Training.py
 ```
+# Tanish Sahu's Code 
 ## Example
 <img align="left" width="200" height="150" src='./output/c1.jpg'>
 <img align="left" width="200" height="150" src='./output/S.jpg'>
